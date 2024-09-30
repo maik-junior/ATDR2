@@ -1,0 +1,17 @@
+channels:
+- defaults
+dependencies:
+- pip
+- git
+- streamlit=1.37.1
+- pandas=2.2.2
+- matplotlib=3.9.2
+- altair=5.0.1
+- plotly=5.24.1
+- jupyterlab=4.2.5
+- numpy=2.0.1
+- lxml=5.2.1
+- cssselect=1.2.0
+- beautifulsoup4=4.12.3
+name: .venv
+prefix: ./.venv
